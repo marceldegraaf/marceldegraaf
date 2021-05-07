@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋🏼
 
-<!--
-**marceldegraaf/marceldegraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech guy, building scalable and easy-to-use software to solve complex problems. 
+ 
+Currently co-founder and CTO at [Walter](https://walterliving.com), bringing transparency and peace-of-mind to the housing market.
 
-Here are some ideas to get you started:
+#### Contact me ✉️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [mail@marceldegraaf.net](mailto:mail@marceldegraaf.net)
+- Twitter: [@marceldegraaf](https://twitter.com/marceldegraaf)
+- LinkedIn: [@marceldegraaf](https://www.linkedin.com/in/marceldegraaf)
+- Keybase: [@marceldegraaf](https://keybase.io/marceldegraaf)
+
+#### GPG 🔒
+
+Find my GPG public key [on Keybase](https://keybase.io/marceldegraaf/) (or [download it directly](https://keybase.io/marceldegraaf/pgp_keys.asc?fingerprint=62a426907971b4e93e9440359748b54b336aa3e5)).
