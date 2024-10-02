@@ -1,6 +1,6 @@
 ### Hi there! 👋🏼
 
-I'm a tech guy, building scalable and easy-to-use software to solve complex problems. 
+I'm a tech guy, building scalable and easy-to-use software to solve complex problems. I love working with the [Elixir](https://elixir-lang.org/) programming language and I have a soft spot for ops/sysadmin related challenges. 
  
 Currently co-founder and CTO at [Walter](https://walterliving.com), bringing transparency and peace-of-mind to the housing market.
 
